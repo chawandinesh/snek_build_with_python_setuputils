@@ -1,0 +1,5 @@
+[console_scripts]
+fancy = fancy:main
+fancysnek = fancysnek:fancysnek
+snek = snek:main
+
